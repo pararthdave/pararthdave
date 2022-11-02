@@ -4,7 +4,7 @@
 - 📫 pararthdave@gmail.com
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pararthdave&theme=highcontrast&show_icons=true&count_private=true) &emsp;&emsp;&emsp;&emsp;
+![Github stats](https://github-readme-stats.vercel.app/api?username=pararthdave&theme=highcontrast&show_icons=true&count_private=true) &emsp;&emsp;
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pararthdave&layout=compact)
 
 <!---
