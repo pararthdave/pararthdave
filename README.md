@@ -1,3 +1,8 @@
+<a href="https://github.com/pararthdave"><img src="https://img.shields.io/github/followers/pararthdave?label=Follow&style=social" alt="ajitmourya7" /></a>
+<a href="https://github.com/pararthdave"><img src="https://komarev.com/ghpvc/?username=pararthdave&label=Profile%20views&color=0e75b6&style=flat" alt="pararthdave" /></a>
+<a href="https://github.com/pararthdave"><img class="center" alt="Pararth Dave's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=pararthdave.pararthdave"/></a>
+ 
+
 - 👋 Hi, I’m @pararthdave
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning NLP, CV, DL
