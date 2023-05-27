@@ -19,10 +19,13 @@
   <p align="left">
   <a href="https://github.com/pararthdave/pararthdave.github.io">
       <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=pararthdave.github.io&theme=gotham" alt="portfolio"></a>
-  <a href="https://github.com/pararthdave/pararthdave.github.io">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=pararthdave.github.io&theme=gotham" alt="portfolio"></a>
-  <a href="https://github.com/pararthdave/pararthdave.github.io">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=pararthdave.github.io&theme=gotham" alt="portfolio"></a>
+  <a href="https://github.com/pararthdave/ChatGPT-PDF2Markdown">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=ChatGPT-PDF2Markdown&theme=gotham" alt="chatgpt"></a>
+  <a href="https://github.com/pararthdave/Stock-Market-Prediction">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=Stock-Market-Prediction&theme=gotham" alt="stockpred"></a>
+  </p>
+ <a href="https://github.com/pararthdave/SentimentAnalysis">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=SentimentAnalysis&theme=gotham" alt="stockpred"></a>
   </p>
 
  <p align="left">
