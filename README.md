@@ -37,7 +37,6 @@
   <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=gotham&hide_border=true"/></a>
 </div>
 
-<h4 align="left">
 <!-- Quote Of The Day --> Fun Fact Of The Day
 </h4>
 <!--
