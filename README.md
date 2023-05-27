@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Pararth Dave
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working at Genesis AI
+- 🌱 I’m currently working at Genesis AI as an ML Engineer
 - 📫 pararthdave@gmail.com
 
 ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pararthdave&theme=highcontrast&show_icons=true&count_private=true)
