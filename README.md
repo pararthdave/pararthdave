@@ -9,7 +9,7 @@
 
 
 <!-- ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pararthdave&theme=gotham&show_icons=true&count_private=true) -->
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pararthdave?cardType=github&theme=gotham&preferLogin=false)
+![Pararth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pararthdave&theme=gotham&show_icons=true)
 
 
 <details> 
