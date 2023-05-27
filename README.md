@@ -1,6 +1,6 @@
 <!-- ![Banner](https://github.com/pararthdave/pararthdave/assets/65480126/3b064bdc-10d2-44c9-a7d4-85b2841ab104) -->
 
-<img width=100% title="Pararth Dave" alt="Pararth Dave" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,20&height=180&section=header&text=Pararth-Dave&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Pararth Dave" alt="Pararth Dave" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,20&height=180&section=header&text=PararthDave&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <p align="center">
 <a href="https://pararthdave.github.io"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
