@@ -1,4 +1,4 @@
-![Banner](https://github.com/pararthdave/pararthdave/assets/65480126/3b064bdc-10d2-44c9-a7d4-85b2841ab104)
+<!-- ![Banner](https://github.com/pararthdave/pararthdave/assets/65480126/3b064bdc-10d2-44c9-a7d4-85b2841ab104) -->
 
 
 - 👋 Hi, I’m Pararth Dave
