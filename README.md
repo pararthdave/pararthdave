@@ -9,7 +9,7 @@
 
 
 <!-- ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pararthdave&theme=gotham&show_icons=true&count_private=true) -->
-![Pararth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pararthdave&theme=gotham&show_icons=true&hide_border=true&rank_icon=github)
+![Pararth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pararthdave&theme=outrun&show_icons=true&hide_border=true&rank_icon=github)
 
 
 <details> 
@@ -18,13 +18,13 @@
 
   <p align="left">
   <a href="https://github.com/pararthdave/pararthdave.github.io">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=pararthdave.github.io&theme=gotham" alt="portfolio"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=pararthdave.github.io&theme=outrun" alt="portfolio"></a>
   <a href="https://github.com/pararthdave/ChatGPT-PDF2Markdown">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=ChatGPT-PDF2Markdown&theme=gotham" alt="chatgpt"></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=ChatGPT-PDF2Markdown&theme=outrun" alt="chatgpt"></a>
   <a href="https://github.com/pararthdave/Stock-Market-Prediction">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=Stock-Market-Prediction&theme=gotham" alt="stockpred"></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=Stock-Market-Prediction&theme=outrun" alt="stockpred"></a>
  <a href="https://github.com/pararthdave/SentimentAnalysis">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=SentimentAnalysis&theme=gotham" alt="stockpred"></a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pararthdave&repo=SentimentAnalysis&theme=outrun" alt="stockpred"></a>
   </p>
 
  <p align="left">
@@ -33,8 +33,8 @@
 </details>
 
 <div align="center">
-  <a href="http://www.github.com/pararthdave"><img alt="pararth top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pararthdave&layout=compact&theme=gotham&hide_border=true"/></a>
-  <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=gotham&hide_border=true"/></a>
+  <a href="http://www.github.com/pararthdave"><img alt="pararth top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pararthdave&layout=compact&theme=outrun&hide_border=true"/></a>
+  <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=outrun&hide_border=true"/></a>
 </div>
 
 <!-- Quote Of The Day --> Fun Fact Of The Day
@@ -43,7 +43,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
 -->
 
-<img src="https://readme-jokes.vercel.app/api?theme=gotham" width="100%"/>
+<img src="https://readme-jokes.vercel.app/api?theme=outrun" width="100%"/>
   
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
