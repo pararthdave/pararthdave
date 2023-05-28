@@ -36,14 +36,14 @@
   <a href="http://www.github.com/pararthdave"><img alt="pararth top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pararthdave&layout=compact&theme=outrun&hide_border=true"/></a>
   <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=outrun&hide_border=true"/></a>
 </div>
-
+<h4>
 <!-- Quote Of The Day --> Fun Fact Of The Day
 </h4>
 <!--
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
 -->
 
-<img src="https://readme-jokes.vercel.app/api?theme=outrun" width="100%"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="100%"/>
   
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
