@@ -1,5 +1,3 @@
-<!-- ![Banner](https://github.com/pararthdave/pararthdave/assets/65480126/3b064bdc-10d2-44c9-a7d4-85b2841ab104) -->
-
 <img width=100% title="Pararth Dave" alt="Pararth Dave" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,20&height=180&section=header&text=PararthDave&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <p align="center">
 <a href="https://pararthdave.github.io"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
@@ -7,8 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
-
-<!-- ![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pararthdave&theme=gotham&show_icons=true&count_private=true) -->
 ![Pararth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pararthdave&theme=outrun&show_icons=true&hide_border=true&rank_icon=github)
 
 
@@ -36,13 +32,17 @@
   <a href="http://www.github.com/pararthdave"><img alt="pararth top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pararthdave&layout=compact&theme=outrun&hide_border=true"/></a>
   <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=outrun&hide_border=true"/></a>
 </div>
-<h4>
-<!-- Quote Of The Day --> Fun Fact Of The Day
-</h4>
-<!--
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
--->
 
+
+<h4>
+Quote Of The Day 
+</h4>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
+
+<h4>
+ Fun Fact Of The Day
+</h4>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="100%"/>
   
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
