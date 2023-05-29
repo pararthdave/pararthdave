@@ -35,19 +35,11 @@
 
 
 <h4>
-Quote Of The Day 
-</h4>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117" width="100%"/>
-
-<h4>
  Fun Fact Of The Day
 </h4>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="100%"/>
   
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
-<!-- ###### END OF QUOTE OF THE DAY ##### -->
 
 
 # Contact Me:
