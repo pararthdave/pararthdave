@@ -33,11 +33,11 @@
   <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=outrun&hide_border=true"/></a>
 </div>
 
-
+<br/>
+<entertain>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="100%"/>
-  
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-
+</entertain>
 
 # Contact Me:
 [![image-gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pararthdave@gmail.com)
