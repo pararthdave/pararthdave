@@ -34,9 +34,6 @@
 </div>
 
 
-<h4>
- Fun Fact Of The Day
-</h4>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="100%"/>
   
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
