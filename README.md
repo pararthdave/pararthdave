@@ -5,8 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 
-![Pararth's GitHub stats](https://github-readme-stats.vercel.app/api?username=pararthdave&theme=outrun&show_icons=true&hide_border=true&rank_icon=github)
-
+<a href="http://www.github.com/pararthdave"/><img alt="pararth stats" src="https://github-readme-stats.vercel.app/api?username=pararthdave&theme=outrun&show_icons=true&hide_border=true&rank_icon=github"/></a>
 
 <details> 
  <summary> <h3>Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
