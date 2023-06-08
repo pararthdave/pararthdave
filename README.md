@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="http://www.github.com/pararthdave"><img alt="pararth top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pararthdave&layout=compact&theme=outrun&hide_border=true"/></a>
-  <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=outrun&hide_border=true"/></a>
+  <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=outrun&hide_border=true&mode=weekly"/></a>
 </div>
 
 <br/>
