@@ -33,11 +33,10 @@
 </div>
 
 <br/>
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="100%"/>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
 
-# Contact Me:
+### Contact Me:
 [![image-gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pararthdave@gmail.com)
 [![image-linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pararthdave)
 <!---
