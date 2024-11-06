@@ -4,9 +4,7 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
-
-<a href="http://www.github.com/pararthdave"/><img alt="pararth stats" src="https://github-readme-stats-pararthdave.vercel.app/api?username=pararthdave&theme=outrun&show_icons=true&hide_border=true&rank_icon=github"/></a>
-
+<a href="http://www.github.com/pararthdave"><img alt="pararth top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pararthdave&layout=compact&theme=outrun&hide_border=true"/></a>
 <details> 
  <summary> <h3>Some of my projects </h3><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/></summary>
   <br/>
@@ -28,7 +26,7 @@
 </details>
 
 <div align="center">
-  <a href="http://www.github.com/pararthdave"><img alt="pararth top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pararthdave&layout=compact&theme=outrun&hide_border=true"/></a>
+  <a href="http://www.github.com/pararthdave"/><img alt="pararth stats" src="https://github-readme-stats-pararthdave.vercel.app/api?username=pararthdave&theme=outrun&show_icons=true&hide_border=true&rank_icon=github"/</a>
   <a href="http://www.github.com/pararthdave"/><img alt="pararth streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pararthdave&show_icons=true&count_private=true&theme=outrun&hide_border=true&mode=weekly"/></a>
 </div>
 
