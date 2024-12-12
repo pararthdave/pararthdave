@@ -39,10 +39,6 @@
 ### Contact Me:
 [![image-gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pararthdave@gmail.com)
 [![image-linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pararthdave)
-<!---
-pararthdave/pararthdave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+![image-sitevisit](https://komarev.com/ghpvc/?username=pararthdave)
 
 <img width=100% title="pararthdave" alt="pararthdave"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,18&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
