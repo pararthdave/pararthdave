@@ -34,7 +34,6 @@
 
 <br/>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-<h3 align="left">📈 My GitHub Activity:</h3>
 <p>
 	
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pararthdave&theme=rogue" alt="GitHub Activity Graph" />
